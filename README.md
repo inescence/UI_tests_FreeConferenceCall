@@ -1,0 +1,1 @@
+A comprehensive UI automation framework built on custom UI helpers and Action patterns. The project focuses on delivering reliable end-to-end tests for core features — such as authentication, user profile, and meeting creation, utilizing industry-standard automation patterns like Page Object Model (POM).
